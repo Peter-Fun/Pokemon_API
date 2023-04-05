@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
 Submitted by: **Peter Xiao**
 
@@ -8,7 +8,7 @@ Time spent: **2** hours spent in total
 
 ## Summary
 
-**Pokemon API** is an android app that **that displays a random pokemon with its picture, its name, and its weight**
+**Pokemon API 2** is an android app that **displays a scrollable list of pokemon from a list that includes a picture of the pokemon, its name, and its weight.**
 
 If I had to describe this project in three (3) emojis, they would be: **🔴⚪🖥️**
 
@@ -19,28 +19,24 @@ If I had to describe this project in three (3) emojis, they would be: **🔴⚪�
 The following REQUIRED features are completed:
 
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Display at least three (3) pieces of data for each API entry retrieved
-- [x] A working Button requests a new API entry and updates the data displayed
+- [x] Implement a RecyclerView to display a list of entries from the API
+- [x] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [ ] Add a UI element for the user to interact with API further
+- [ ] Show a `Toast` or `Snackbar` when an item is clicked
+- [ ] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-## API Choice
-
-My chosen API for this project is **Pokemon*.
-
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://g.recordit.co/CQR3bV9q5m.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='http://g.recordit.co/eID22DPVPG.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **RecordIt**
 
